@@ -18,7 +18,7 @@ CHEM 1120 Chemistry II.
 
 I am currently working on growing my knowledge in programming and web development. Please check out my [LinkedIn](https://www.linkedin.com/in/mary-pendleton-046841387) and stay connected on GitHub to see my projects!
 
-I would absolutely appreciate any tips or help as I start my journey! Big dreams :)
+I would absolutely appreciate any tips and help as I start my journey!
 
 
 
