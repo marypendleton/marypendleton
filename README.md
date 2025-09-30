@@ -4,8 +4,6 @@ I am a first-year Computer Science student at East Tennessee State University wi
 
 Languages: Python, SQL, C#, HTML, JavaScript
 
-Currently learning web development & database design.
-
 Courses in progress - Fall and Spring Semester: 
 CSCI 1250 Intro to Programming and Computer Science,
 CSCI 1510 Hello World,
@@ -16,7 +14,7 @@ CSCI 1900 Math for Computer Science,
 CSCI 1400 PC Setup,
 CHEM 1120 Chemistry II.
 
-I am currently working on growing my knowledge in programming and web development. Please check out my [LinkedIn](https://www.linkedin.com/in/mary-pendleton-046841387) and stay connected on GitHub to see my projects!
+I am currently working on growing my knowledge in programming, database design and web development. Please check out my [LinkedIn](https://www.linkedin.com/in/mary-pendleton-046841387) and stay connected on GitHub to see my projects!
 
 I would absolutely appreciate any tips and help as I start my journey!
 
